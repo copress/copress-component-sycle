@@ -1,0 +1,6 @@
+{
+  "Coffee": {
+    "crud": true,
+    "public": true
+  }
+}

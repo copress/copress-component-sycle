@@ -37,6 +37,6 @@
     "configup": "^0.1.4",
     "delegates": "^0.1.0",
     "lodash": "^3.10.0",
-    "sycle": "^0.2.19"
+    "sycle": "^0.3.x"
   }
 }

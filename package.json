@@ -35,6 +35,7 @@
   "license": "MIT",
   "dependencies": {
     "configup": "^0.1.4",
+    "debug": "^2.2.0",
     "delegates": "^0.1.0",
     "lodash": "^3.10.0",
     "sycle": "^0.3.x"
